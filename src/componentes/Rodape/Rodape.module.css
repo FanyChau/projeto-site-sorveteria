@@ -1,0 +1,43 @@
+.footer{
+ background-color: #000000;
+ color:#ffffff;
+  padding: 100px 20px ;
+}
+
+.rodape{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    max-width: 1024px;
+    gap: 50px;
+    margin: 0 auto;
+  
+}
+
+.imagem_logo{
+    width: 100px;
+    height: 100px;  
+}
+
+.card_contato{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    height: 100px;
+}
+
+.card_contato h3{
+    font-size: 18px;
+}
+
+.card_contato p{
+    font-size: 16px;
+}
+
+.texto_footer{
+    width: 100%;
+    padding: 100px 20px;
+    font-size: 16px;
+    text-align: center;
+}

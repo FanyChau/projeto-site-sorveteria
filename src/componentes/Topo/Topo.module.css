@@ -1,0 +1,29 @@
+.container_topo{
+    width: 100%;
+    padding: 0 20px;
+    background-color: #F9DB79;
+    
+}
+
+.secao_limitada{
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.imagem_logo{
+    width: 100px;
+    height: 100px;
+}
+
+.menu_topo{
+    display: flex;
+    padding: 20px 0;
+    gap: 20px;
+}
+
+.menu_topo a{
+    text-decoration: none;
+    color: #000000
+}
