@@ -18,3 +18,59 @@
     color: #ffffff;
     text-align: center;
 }
+
+.secao_sorvetes{
+    padding: 100px 20px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 40px;
+    background-color: #FFFFFF;
+}
+
+.secao_sorvetes h2{
+    font-size: 28px;
+    color: #000000;
+    font-weight: 550;
+}
+
+.container_cards{
+    max-width: 1024px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.card{
+    flex: 1 1 300px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    text-align: center;
+    gap: 10px;
+    box-shadow: 2px 2px 15px 2px #d9dde1;
+}
+
+.card img{
+    width: auto;
+    height: 250px;
+}
+
+.card h3{
+    font-size: 18px;
+    color: #000000;
+}
+
+.card p{
+    font-size: 16px;
+    color:#000000;
+}
+

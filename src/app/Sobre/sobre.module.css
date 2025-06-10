@@ -1,0 +1,60 @@
+.imagem_banner_sobre {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.texo_banner_sobre {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.texto_banner_sobre h1{
+    text-shadow: 3px 5px 2px #474747;
+    width: 100%;
+    font-size: 100px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.secao_sobre {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    max-width: 1024px;
+    padding: 100px 20px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.secao_sobre h2 p span {
+    color: #000000;
+}
+
+.secao_sobre h2 {
+    font-size: 32px;
+}
+
+.secao_sobre span {
+    font-size: 20px;
+    font-weight: 550;
+    font-style: italic;
+}
+
+.secao_sobre p {
+    font-size: 16px;
+}
+
+.secao_imagens { 
+    display: flex;
+    
+}
+
+.secao_imagens img {
+    width: 50%;
+    height: auto;
+   object-fit: cover;
+}

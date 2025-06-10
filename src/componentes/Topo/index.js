@@ -10,7 +10,7 @@ export default function Topo() {
             <nav className={estilos.menu_topo}>
                 <Link href="/">Home</Link>
                 <Link  className={estilos.link_Sabores} href="/Sabores">Sabores</Link>
-                <Link href="/Sobre">Sobre</Link>
+                <Link className={estilos.link_Sobre} href="/Sobre">Sobre</Link>
             </nav>
             </div>
         </header>
