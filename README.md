@@ -13,6 +13,8 @@ yarn dev
 pnpm dev
 # ou
 bun dev
+
+
 Depois, abra http://localhost:3000 no seu navegador para ver o resultado.
 
 Você pode começar a editar o projeto modificando o arquivo app/page.js. A página será atualizada automaticamente conforme você salva as alterações.
