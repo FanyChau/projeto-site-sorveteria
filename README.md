@@ -7,11 +7,11 @@ Este é um projeto Next.js criado com o comando create-next-app.
 Para iniciar o servidor de desenvolvimento, execute um dos comandos abaixo:
 
 npm run dev
- # ou
+ #ou
 yarn dev
 # ou
 pnpm dev
-# ou
+#ou
 bun dev
 Depois, abra http://localhost:3000 no seu navegador para ver o resultado.
 
