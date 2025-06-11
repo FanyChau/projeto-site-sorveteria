@@ -24,11 +24,11 @@ export default function Rodape (){
                 <p>10:00 - 22:00</p>
             </div>
         </div>
-             <div className={estilos.texto_footer}>
-            <p>Gelateria. Orgulhosamente desenvolvido por Epifanio Chau</p>
-           </div>
+        <div className={estilos.texto_footer}>
+           <p>Gelateria. Orgulhosamente desenvolvido por Epifanio Chau</p>
+        </div>
         </footer>
-
+        
        
     )
 }

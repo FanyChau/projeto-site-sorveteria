@@ -74,3 +74,24 @@
     color:#000000;
 }
 
+@media (max-width: 768px){
+    .texto_banner_sabores h1{
+        font-size: 50px;
+    }
+    .container_cards{
+        flex-direction: column;
+        width: 100%;
+    }
+    .card{
+        width: 100%;
+    }
+}
+
+@media (max-width: 320px){
+    .imagem_banner_sabores{
+      background-size: cover;
+      background-position: center;
+      min-height: 200px;
+        
+    }
+}
