@@ -1,9 +1,9 @@
  # projeto-site-sorveteria
 Arquivos do projeto Sorveteria
 
+# Primeiros Passos
 Este é um projeto Next.js criado com o comando create-next-app.
 
-# Primeiros Passos
 Para iniciar o servidor de desenvolvimento, execute um dos comandos abaixo:
 
 npm run dev
