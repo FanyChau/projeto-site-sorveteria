@@ -11,7 +11,7 @@ npm run dev
 yarn dev
 # ou
 pnpm dev
-#ou
+# ou
 bun dev
 Depois, abra http://localhost:3000 no seu navegador para ver o resultado.
 
