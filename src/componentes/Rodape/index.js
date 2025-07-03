@@ -10,13 +10,13 @@ export default function Rodape (){
                 </div>
             <div className={estilos.card_contato}>
                 <h3>ENDEREÇO</h3>
-                <p>Av. Bernardino de Campos, 98</p>
-                <p>São Paulo, SP 12345-678</p>
+                <p>Rua 10 de Novembro, nº 789, Bairro Sommerschield</p>
+                <p>Maputo, Moçambique, CP 54321-987</p>
             </div>
             <div className={estilos.card_contato}>
                 <h3>CONTATO</h3>
                 <p>info@meusite.com</p>
-                <p>Tel: (11) 3456-7890</p>
+                <p>Tel: (+258) 765 4321</p>
             </div>
             <div className={estilos.card_contato}>
                 <h3>HORÁRIOS</h3>
@@ -25,7 +25,7 @@ export default function Rodape (){
             </div>
         </div>
         <div className={estilos.texto_footer}>
-           <p>Gelateria. Orgulhosamente desenvolvido por Epifanio Chau</p>
+           <p>Gelateria. Desenvolvido por Chauwebservices</p>
         </div>
         </footer>
         
