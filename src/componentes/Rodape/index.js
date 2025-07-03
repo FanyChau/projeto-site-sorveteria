@@ -25,7 +25,7 @@ export default function Rodape (){
             </div>
         </div>
         <div className={estilos.texto_footer}>
-           <p>Gelateria. Desenvolvido por Chauwebservices</p>
+           <p>Gelateria. Desenvolvido por chauwebservices</p>
         </div>
         </footer>
         
